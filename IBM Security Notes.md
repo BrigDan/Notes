@@ -1,4 +1,6 @@
 ### Cloud Computing
+<img style="height: 160px; width: 300px;" alt="Drawing" src="https://assets.sdxcentral.com/ibm-cloud-orchestrator-product.jpg">
+
 #### What is cloud computing?
 Cloud computing is the delivery of on-demand resources for applications and data centers over the internet (Not locally.)
 
@@ -57,6 +59,7 @@ Most businesses use a Hybrid cloud service. Simply put its a combination of publ
 <hr>
 
 ### Artificial Intelligence
+<img style="height: 180px; width: 300px;" alt="Drawing" src="http://mobilemarketingmagazine.com/wp-content/uploads/2017/01/IBM-Watson-Logo.png">
 
 #### Fundementals
 -  Understand at incredible speed
@@ -91,6 +94,7 @@ Most businesses use a Hybrid cloud service. Simply put its a combination of publ
 <hr>
 
 ### Blockchain
+<img style="height: 100px; width: 300px;" alt="Drawing" src="http://www.gutmark.net/wp-content/uploads/2016/08/Blockchain-Logo-Blue6-e1472150729180.png">
 
 - Bitcoin
     - History
@@ -125,9 +129,11 @@ Most businesses use a Hybrid cloud service. Simply put its a combination of publ
 <hr>
 
 ### Internet of Things
+<img style="height: 160px; width: 350px;" alt="Drawing" src="http://intca.org/wp-content/uploads/2016/08/IoT.jpg">
 
 <hr>
 ### Quantum Computing
+<img style="height: 160px; width: 350px;" alt="Drawing" src="https://i.ytimg.com/vi/JhHMJCUmq28/maxresdefault.jpg">
 
 <hr>
 
